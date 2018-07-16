@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+ background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKd5oGYPd0IndhxVnVT-0sPFS5yobmfeKZYCwb023cXGylBK2);
+ background-size: cover;
+}
+#title{
+  font-size: 30px;
+  color: white;
+}
+#characterborder{
+
+  width: 7%;
+
+}
+#characterborder img{
+  height: 90px;
+  width: 100%;
+}
